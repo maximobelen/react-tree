@@ -1,5 +1,5 @@
 {
-  "name": "react-tree-component",
+  "name": "react-tree-structure",
   "version": "0.0.1",
   "description": "A N Tree to use with react-node-component",
   "main": "build/index.js",
