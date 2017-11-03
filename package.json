@@ -1,6 +1,6 @@
 {
   "name": "react-tree-structure",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A N Tree to use with react-node-component",
   "main": "build/index.js",
   "peerDependencies": {
